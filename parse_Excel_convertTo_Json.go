@@ -1,8 +1,7 @@
 package main
 
 import (
-    "./models"
-    "./services"
+    "github.com/phungocnguyen/platformOps-EC/tree/phu-branch-1"
     "fmt"
     "log"
     "flag"
