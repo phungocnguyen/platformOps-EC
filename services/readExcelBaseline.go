@@ -4,7 +4,7 @@ import (
     "fmt"
     "path/filepath"
     "../../github.com/tealeg/xlsx"
-    "hello/models"
+    "../models"
 )
 
 
