@@ -13,15 +13,15 @@
 *.test
 
 # Output of the go coverage tool, specifically when used with LiteIDE
-*.out
-
 /test_data
 /configs
 
-.idea/
 /parse_Excel_convertTo_Json
 /parse_Excel_loadTo_Sql
 /ec_agent
+
+.idea/
+
 
 
 
