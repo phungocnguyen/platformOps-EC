@@ -9,7 +9,7 @@ import (
     "log"
     "flag"
     "os"
-    "./services"
+    "github.com/phungocnguyen/platformOps-EC"
     _"github.com/lib/pq"
 )
 
@@ -50,12 +50,12 @@ func main() {
 
         if excelFileName == "" {
                  fmt.Println("Missing input excel baseline. Program will exit.")
-                  os.Exit(1)
+                 os.Exit(1)
         }
 
         if configFile == "" {
-                         fmt.Println("Missing configuration file. Program will exit.")
-                          os.Exit(1)
+                 fmt.Println("Missing configuration file. Program will exit.")
+                 os.Exit(1)
         }
 
 
