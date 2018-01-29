@@ -9,7 +9,7 @@ import (
     "log"
     "flag"
     "os"
-    "github.com/phungocnguyen/platformOps-EC/tree/phu-branch-1"
+    "platformOps-EC/services"
     _"github.com/lib/pq"
 )
 

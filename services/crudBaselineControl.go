@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 	"log"
-	"github.com/phungocnguyen/platformOps-EC/tree/phu-branch-1"
+	"platformOps-EC/models"
 )
 
 
